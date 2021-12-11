@@ -2855,7 +2855,7 @@ button.swiper-pagination-bullet {
 .map__body {
   position: relative;
   padding: 10px 0 40px;
-  background: linear-gradient(to right, rgba(230, 230, 230, 0.9), rgba(230, 230, 230, 0.6), rgba(230, 230, 230, 0.9)), url("/images/map/1.jpg") center 100%/cover no-repeat;
+  background: linear-gradient(to right, rgba(230, 230, 230, 0.9), rgba(230, 230, 230, 0.6), rgba(230, 230, 230, 0.9)), url("../images/map/1.jpg") center 100%/cover no-repeat;
 }
 .map__body::before {
   content: "";
